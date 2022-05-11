@@ -1,3 +1,3 @@
 # new
 newpushcode try
-Conflict error
+Conflict Solved
